@@ -43,7 +43,7 @@ It reflects a production-grade data engineering workflow with modular, fault-tol
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/data_engineering.git
+   git clone https://github.com/sudhanshu811/Real-Time-Data-Streaming-Pipeline.git
    cd data_engineering
    
 2. Create and Activate a Virtual Environment
